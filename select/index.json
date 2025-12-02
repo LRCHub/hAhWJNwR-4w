@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "会心の一撃",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-02T09:05:50.736838Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "会心の一撃",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_会心の一撃_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "会心の一撃 - Kaishin No Ichigeki",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/02_会心の一撃_-_Kaishin_No_Ichigeki_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "会心の一撃 - BACK TO THE LIVE HOUSE TOUR 2023 Live at Zepp Haneda(TOKYO) [2023/7/5]",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_会心の一撃_-_BACK_TO_THE_LIVE_HOUSE_TOUR_2023_Live_at_Zepp_Haneda(TOKYO)_[2023_7_5]_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "会心の一撃 (BACK TO THE LIVE HOUSE TOUR 2023 Live at Zepp Haneda(TOKYO) [2023/7/5])\u001f「www.jpopsingles.eu」",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_会心の一撃_(BACK_TO_THE_LIVE_HOUSE_TOUR_2023_Live_at_Zepp_Haneda(TOKYO)_[2023_7_5])_「_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "会心の一撃",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/05_会心の一撃_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "会心の一撃",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_会心の一撃_RADWIMPS.txt"
+    }
+  ]
+}
